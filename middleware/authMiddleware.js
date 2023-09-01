@@ -14,7 +14,7 @@ async function authenticateUser(req, res, next) {
       return res.status(401).json({ message: 'Invalid credentials' });
     }
 
-    const isValidPassword = await encryptionHelper.validatePassword(password,user.password)
+    const isValidPassword = await encryptionHelper.validatePassword(password, user.password)
 
     if (!isValidPassword) {
       return res.status(401).json({ message: 'Invalid credentials' });

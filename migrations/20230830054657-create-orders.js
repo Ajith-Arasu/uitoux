@@ -1,4 +1,3 @@
-// File: XXXXXXXXXXXXXX-create-orders.js
 'use strict';
 
 module.exports = {

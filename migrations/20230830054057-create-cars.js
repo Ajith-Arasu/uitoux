@@ -1,4 +1,4 @@
-// File: XXXXXXXXXXXXXX-create-cars.js
+
 'use strict';
 
 module.exports = {

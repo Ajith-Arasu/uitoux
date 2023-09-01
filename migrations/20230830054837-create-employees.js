@@ -1,4 +1,3 @@
-// File: XXXXXXXXXXXXXX-create-employees.js
 'use strict';
 
 module.exports = {

@@ -1,4 +1,3 @@
-// File: XXXXXXXXXXXXXX-create-orderItems.js
 'use strict';
 
 module.exports = {

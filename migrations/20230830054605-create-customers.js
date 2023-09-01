@@ -1,4 +1,3 @@
-// File: XXXXXXXXXXXXXX-create-customers.js
 'use strict';
 
 module.exports = {

@@ -1,4 +1,3 @@
-// File: XXXXXXXXXXXXXX-create-parts.js
 'use strict';
 
 module.exports = {
